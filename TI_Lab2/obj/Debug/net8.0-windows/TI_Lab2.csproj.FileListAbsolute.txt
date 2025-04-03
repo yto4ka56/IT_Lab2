@@ -1,0 +1,17 @@
+C:\Users\maxbe\OneDrive\Документы\IT\IT_Lab2\TI_Lab2\TI_Lab2\bin\Debug\net8.0-windows\TI_Lab2.exe
+C:\Users\maxbe\OneDrive\Документы\IT\IT_Lab2\TI_Lab2\TI_Lab2\bin\Debug\net8.0-windows\TI_Lab2.deps.json
+C:\Users\maxbe\OneDrive\Документы\IT\IT_Lab2\TI_Lab2\TI_Lab2\bin\Debug\net8.0-windows\TI_Lab2.runtimeconfig.json
+C:\Users\maxbe\OneDrive\Документы\IT\IT_Lab2\TI_Lab2\TI_Lab2\bin\Debug\net8.0-windows\TI_Lab2.dll
+C:\Users\maxbe\OneDrive\Документы\IT\IT_Lab2\TI_Lab2\TI_Lab2\bin\Debug\net8.0-windows\TI_Lab2.pdb
+C:\Users\maxbe\OneDrive\Документы\IT\IT_Lab2\TI_Lab2\TI_Lab2\obj\Debug\net8.0-windows\TI_Lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxbe\OneDrive\Документы\IT\IT_Lab2\TI_Lab2\TI_Lab2\obj\Debug\net8.0-windows\TI_Lab2.AssemblyInfoInputs.cache
+C:\Users\maxbe\OneDrive\Документы\IT\IT_Lab2\TI_Lab2\TI_Lab2\obj\Debug\net8.0-windows\TI_Lab2.AssemblyInfo.cs
+C:\Users\maxbe\OneDrive\Документы\IT\IT_Lab2\TI_Lab2\TI_Lab2\obj\Debug\net8.0-windows\TI_Lab2.csproj.CoreCompileInputs.cache
+C:\Users\maxbe\OneDrive\Документы\IT\IT_Lab2\TI_Lab2\TI_Lab2\obj\Debug\net8.0-windows\TI_Lab2.sourcelink.json
+C:\Users\maxbe\OneDrive\Документы\IT\IT_Lab2\TI_Lab2\TI_Lab2\obj\Debug\net8.0-windows\TI_Lab2.dll
+C:\Users\maxbe\OneDrive\Документы\IT\IT_Lab2\TI_Lab2\TI_Lab2\obj\Debug\net8.0-windows\refint\TI_Lab2.dll
+C:\Users\maxbe\OneDrive\Документы\IT\IT_Lab2\TI_Lab2\TI_Lab2\obj\Debug\net8.0-windows\TI_Lab2.pdb
+C:\Users\maxbe\OneDrive\Документы\IT\IT_Lab2\TI_Lab2\TI_Lab2\obj\Debug\net8.0-windows\TI_Lab2.genruntimeconfig.cache
+C:\Users\maxbe\OneDrive\Документы\IT\IT_Lab2\TI_Lab2\TI_Lab2\obj\Debug\net8.0-windows\ref\TI_Lab2.dll
+C:\Users\maxbe\OneDrive\Документы\IT\IT_Lab2\TI_Lab2\TI_Lab2\obj\Debug\net8.0-windows\TI_Lab2.Form1.resources
+C:\Users\maxbe\OneDrive\Документы\IT\IT_Lab2\TI_Lab2\TI_Lab2\obj\Debug\net8.0-windows\TI_Lab2.csproj.GenerateResource.cache
